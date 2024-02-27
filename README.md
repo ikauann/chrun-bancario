@@ -1,0 +1,2 @@
+# chrun-bancario
+ Neste projeto, vamos abordar o problema de previsão de churn de clientes em um banco. O churn de clientes é um problema crítico em muitos setores, incluindo o setor bancário, pois a perda de clientes pode resultar em perda de receita significativa. Nosso objetivo é construir um modelo de aprendizado de máquina que preveja se um cliente irá deixar o banco com base em vários atributos, como idade, saldo da conta, número de produtos utilizados, entre outros.
